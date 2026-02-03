@@ -1,2 +1,2 @@
-# fin-dash-sp26
+# fin-data-sp26
 Working repo for spring 2026
